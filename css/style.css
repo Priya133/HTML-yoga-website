@@ -1,0 +1,25 @@
+#wall{
+width:100%;
+height:1200px;
+background:#1234ea;
+}
+
+#place{
+width:900px;
+height:1200px;
+background:#567acd;
+margin:0px auto;
+}
+
+#logo{
+width:900px;
+height:210px;
+background:#987bce;
+}
+
+#links{
+width:500px;
+height:10px;
+background:#red;
+}
+
